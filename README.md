@@ -12,6 +12,7 @@ I added atl elements to all images with a discription except the image icons und
 In the content section I added the div id to search engine optimization so the header can link to this section. 
 
 Consildated in CSS the following codes:
-    -search-engine-optimization, onlin-reputation-management and social-media-marketing to just content.
 
-    -lead-generation, brand-awareness and cost-management to just benefits.
+    search-engine-optimization, onlin-reputation-management and social-media-marketing to just content.
+
+    lead-generation, brand-awareness and cost-management to just benefits.
