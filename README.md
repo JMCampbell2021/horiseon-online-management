@@ -7,6 +7,11 @@ I found that there were too many div elements through out the html file.  I fixe
 
 I took the digital-marketing-meeting.jpg from the hero img section of the CSS and moved it to the html file under the hero section so I can add an atl element with a discription. 
 
-I added atl elements to all images with a discription except the image icons under the benefit section. I left those images without a discription since I believed those icon images were not important.
+I added atl elements to all images with a discription except the image icons under the benefit section. I left those images without a alt discription since I believed those icon images were not important.
 
 In the content section I added the div id to search engine optimization so the header can link to this section. 
+
+Consildated in CSS the following codes:
+    -search-engine-optimization, onlin-reputation-management and social-media-marketing to just content.
+
+    -lead-generation, brand-awareness and cost-management to just benefits.
