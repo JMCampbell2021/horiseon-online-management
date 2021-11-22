@@ -13,6 +13,6 @@ In the content section I added the div id to search engine optimization so the h
 
 Consildated in CSS the following codes:
 
-    search-engine-optimization, onlin-reputation-management and social-media-marketing to just content.
+search-engine-optimization, onlin-reputation-management and social-media-marketing to just content.
 
-    lead-generation, brand-awareness and cost-management to just benefits.
+lead-generation, brand-awareness and cost-management to just benefits.
